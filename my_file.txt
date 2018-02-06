@@ -3,3 +3,4 @@ binago
 new
 indexed
 change 5
+change 6
