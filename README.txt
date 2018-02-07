@@ -1,1 +1,1 @@
-hello world! n hello people!
+I'm just practicing to use Git and Github. 
